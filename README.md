@@ -240,6 +240,8 @@ The creator user is a normal user who minted NFTs which means you still can buy 
 4. After buying the NFT the amount of CSPR will be divided according to the Requested Royality between the Beneficiary and the Creator 
 
 ## Site Unit Tests
+To run the unit tests, please do the following steps: 
+
 ```bash
 yarn test 
 ```
